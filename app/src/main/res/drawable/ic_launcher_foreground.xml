@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Marca PERFIN infra (placeholder tipografico): dois quadrados sobrepostos,
+  o superior em azul institucional e o inferior em verde.
+  Substituir pelo arquivo oficial da marca quando disponivel.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <path
+        android:pathData="M30,30 L64,30 L64,64 L30,64 Z"
+        android:strokeColor="#005B94"
+        android:strokeWidth="5"
+        android:fillColor="#00000000" />
+
+    <path
+        android:pathData="M44,44 L78,44 L78,78 L44,78 Z"
+        android:strokeColor="#4CAC87"
+        android:strokeWidth="5"
+        android:fillColor="#00000000" />
+</vector>

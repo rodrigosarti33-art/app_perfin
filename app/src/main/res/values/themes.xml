@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PerfinNews" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#002440</item>
+        <item name="android:windowBackground">#F2F5F6</item>
+    </style>
+</resources>
